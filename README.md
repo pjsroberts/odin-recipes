@@ -1,1 +1,2 @@
 # Oden Recipes
+I chose some of my favorite recipes from allrecipe! I first added the html boilerplate to the homemade mac and cheese recipe. Then, created the header and added a graphic from the allrecipe site. After, I added the ingredents and steps to make them. Finally, I added a link to the original recipe. Then repeated two more time for two different recipes. After, I made the index.html file and added all three recipes so you can click on and go to. 
